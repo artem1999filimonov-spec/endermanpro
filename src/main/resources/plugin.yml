@@ -1,0 +1,6 @@
+
+name: EndermanChaos
+version: 1.0.0
+main: me.example.endermanchaos.Main
+api-version: '1.21'
+description: Enderman combat mechanics
